@@ -1,0 +1,13 @@
+D:\P122\P125\StringStringBuilder\StringStringBuilder\bin\Debug\netcoreapp3.1\StringStringBuilder.exe
+D:\P122\P125\StringStringBuilder\StringStringBuilder\bin\Debug\netcoreapp3.1\StringStringBuilder.deps.json
+D:\P122\P125\StringStringBuilder\StringStringBuilder\bin\Debug\netcoreapp3.1\StringStringBuilder.runtimeconfig.json
+D:\P122\P125\StringStringBuilder\StringStringBuilder\bin\Debug\netcoreapp3.1\StringStringBuilder.runtimeconfig.dev.json
+D:\P122\P125\StringStringBuilder\StringStringBuilder\bin\Debug\netcoreapp3.1\StringStringBuilder.dll
+D:\P122\P125\StringStringBuilder\StringStringBuilder\bin\Debug\netcoreapp3.1\StringStringBuilder.pdb
+D:\P122\P125\StringStringBuilder\StringStringBuilder\obj\Debug\netcoreapp3.1\StringStringBuilder.csprojAssemblyReference.cache
+D:\P122\P125\StringStringBuilder\StringStringBuilder\obj\Debug\netcoreapp3.1\StringStringBuilder.AssemblyInfoInputs.cache
+D:\P122\P125\StringStringBuilder\StringStringBuilder\obj\Debug\netcoreapp3.1\StringStringBuilder.AssemblyInfo.cs
+D:\P122\P125\StringStringBuilder\StringStringBuilder\obj\Debug\netcoreapp3.1\StringStringBuilder.csproj.CoreCompileInputs.cache
+D:\P122\P125\StringStringBuilder\StringStringBuilder\obj\Debug\netcoreapp3.1\StringStringBuilder.dll
+D:\P122\P125\StringStringBuilder\StringStringBuilder\obj\Debug\netcoreapp3.1\StringStringBuilder.pdb
+D:\P122\P125\StringStringBuilder\StringStringBuilder\obj\Debug\netcoreapp3.1\StringStringBuilder.genruntimeconfig.cache
